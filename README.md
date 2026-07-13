@@ -25,5 +25,3 @@ PR: [LMCache/LMCache#4082](https://github.com/LMCache/LMCache/pull/4082).
 ---
 
 Status legend: ✅ active/verified · 🔧 in review · 🚧 work in progress
-
-Ongoing log: [worklog](https://github.com/hamstergamerszhang-ops/worklog)
